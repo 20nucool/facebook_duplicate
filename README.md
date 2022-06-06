@@ -1,16 +1,7 @@
 # face_dub
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+ OUTPUT : 
+  
+  ![fb-dup](https://user-images.githubusercontent.com/84428117/172083520-484357de-b97a-4cf5-9c73-26a6039e7f84.jpg)
